@@ -1,2 +1,2 @@
-# Anki-decks
-Decks for Anki, the learning tool.
+# Anki
+Some resources for Anki, the learning tool.
